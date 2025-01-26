@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 
 Screnshoot
 
-![banner-online-course](https://github.com/raflisalamudin/online-course/assets/91868371/c9d5b0da-9a43-4e63-9d53-f27d9a05ccda)
+![banner-online-course](https://github.com/raflisalamudin/online-course/blob/main/src/assets/img/home-online-course.png)
 
